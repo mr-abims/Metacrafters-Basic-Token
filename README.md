@@ -37,5 +37,5 @@ $ anvil
 ### Deploy
 
 ```shell
-$ forge script script/Conditions.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
+$ forge script script/Token.s.sol:CounterScript --rpc-url <your_rpc_url> --private-key <your_private_key>
 ```
